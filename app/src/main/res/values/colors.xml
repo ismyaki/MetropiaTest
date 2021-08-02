@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_icon_background">#FBB117</color>
+
+    <color name="colorPrimary">#1266c7</color>
+    <color name="colorPrimaryVariant">#1266c7</color>
+    <color name="colorOnPrimary">#FFFFFFFF</color>
+
+    <color name="colorSecondary">#009924</color>
+    <color name="colorSecondaryVariant">#26009924</color>
+    <color name="colorOnSecondary">#FFFFFFFF</color>
+
+    <color name="purple_200">#FBB117</color>
+    <color name="purple_500">#FBB117</color>
+    <color name="purple_700">#FBB117</color>
+    <color name="teal_200">#FBB117</color>
+    <color name="teal_700">#FBB117</color>
+
+    <color name="divider">#F06E767A</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#1266c7</color>
+    <color name="red">#D40066</color>
+    <color name="gray">#6E767A</color>
+    <color name="green">#009924</color>
+    <color name="bike_many">#FBB117</color>
+    <color name="bike_less">#0F4235</color>
+    <color name="bike_nothing">#6E767A</color>
+
+    <color name="txt_gray">#85000000</color>
+    <color name="txt_black">#000000</color>
+</resources>

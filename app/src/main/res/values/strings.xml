@@ -1,10 +1,6 @@
 <resources>
     <string name="app_name">MetropiaTest</string>
 
-    <string name="bike_many">車輛充足</string>
-    <string name="bike_nothing">尚無車輛</string>
-    <string name="bike_less">車輛過少</string>
-
     <string name="bottom_sheet_estimated_time">%d min</string>
     <string name="bottom_sheet_adapter_walk_arrive_time">Walking %d min (%d mi)</string>
 </resources>
